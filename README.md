@@ -44,7 +44,7 @@ Projects will be evaluated on:
 
 Extra credit idea:
 
-# Commit your script to a github repo
+# Commit your script to a github repo.
 
 # Create a github action workflow which:
 
