@@ -7,7 +7,7 @@ import json
 
 KEY = sys.argv[1]
 FILEPATH = sys.argv[2]
-URL = 'http://api.openWEATHERmap.org/data/2.5/WEATHER?'
+URL = 'http://api.openWEATHERmap.org/data/2.5/weather?'
 CITIES = ["London", "Boston"]
 WEATHER = []
 
